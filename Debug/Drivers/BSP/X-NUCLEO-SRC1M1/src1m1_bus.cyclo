@@ -1,0 +1,14 @@
+../Drivers/BSP/X-NUCLEO-SRC1M1/src1m1_bus.c:225:26:MX_I2C_Init	4
+../Drivers/BSP/X-NUCLEO-SRC1M1/src1m1_bus.c:275:9:BSP_I2C_Init	4
+../Drivers/BSP/X-NUCLEO-SRC1M1/src1m1_bus.c:304:9:BSP_I2C_DeInit	2
+../Drivers/BSP/X-NUCLEO-SRC1M1/src1m1_bus.c:327:9:BSP_I2C_IsReady	2
+../Drivers/BSP/X-NUCLEO-SRC1M1/src1m1_bus.c:351:9:BSP_I2C_WriteReg	3
+../Drivers/BSP/X-NUCLEO-SRC1M1/src1m1_bus.c:383:9:BSP_I2C_ReadReg	3
+../Drivers/BSP/X-NUCLEO-SRC1M1/src1m1_bus.c:415:9:BSP_I2C_WriteReg16	3
+../Drivers/BSP/X-NUCLEO-SRC1M1/src1m1_bus.c:447:9:BSP_I2C_ReadReg16	3
+../Drivers/BSP/X-NUCLEO-SRC1M1/src1m1_bus.c:536:9:BSP_GetTick	1
+../Drivers/BSP/X-NUCLEO-SRC1M1/src1m1_bus.c:554:13:I2C_MspInit	1
+../Drivers/BSP/X-NUCLEO-SRC1M1/src1m1_bus.c:601:13:I2C_MspDeInit	1
+../Drivers/BSP/X-NUCLEO-SRC1M1/src1m1_bus.c:630:17:I2C_GetTiming	7
+../Drivers/BSP/X-NUCLEO-SRC1M1/src1m1_bus.c:669:13:Compute_PRESC_SCLDEL_SDADEL	9
+../Drivers/BSP/X-NUCLEO-SRC1M1/src1m1_bus.c:741:17:Compute_SCLL_SCLH	12
